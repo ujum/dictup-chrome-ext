@@ -1,0 +1,41 @@
+{
+  "manifest_version": 2,
+  "name": "Dictup",
+  "short_name": "Dictup",
+  "version": "1.0.0",
+  "description": "Add and Learn New Words",
+  "permissions": [
+    "storage",
+    "tabs",
+    "cookies",
+    "<all_urls>",
+    "notifications",
+    "contextMenus"
+  ],
+  "icons": {
+    "16": "img/logo-paw16.png",
+    "48": "img/logo-paw48.png"
+  },
+  "content_scripts": [
+    {
+      "css": [
+        "content.css"
+      ],
+      "exclude_matches": [
+        "https://dictup.com:8080/*",
+        "http://dictup.com:8080/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    }
+  ],
+  "browser_action": {
+    "default_title": "Add and learn new words!",
+    "default_popup": "popup/popup.html",
+    "default_icon": "img/logo-paw.png"
+  }
+}
