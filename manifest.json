@@ -1,4 +1,9 @@
 {
+  "background": {
+    "scripts": [
+      "storage.js"
+    ]
+  },
   "manifest_version": 2,
   "name": "Dictup",
   "short_name": "Dictup",

@@ -3,17 +3,20 @@ const host = "dictup.com:8080"
 function getAuthHeaders(settings) {
     return {
         'Content-type': 'application/json',
-        'Authorization': 'Bearer ' + settings.access_token,
+        'Authorization': 'Bearer ' + settings.accessToken,
     };
 }
 
 bodyClick = () => {
     const selection = document.getSelection();
     chrome.storage.local.get(null, settings => {
-        addWord(selection.toString(), settings.groups[0].id)
+        let defaultGroup = settings.groups.find(gr => gr.default === true);
+        let groupID = defaultGroup === undefined || defaultGroup === null ? groups[0].id : defaultGroup.id
+        addWord(selection.toString(), groupID)
     })
 }
 document.ondblclick = bodyClick;
+
 addWord = (sel, groupID) => {
     chrome.storage.local.get(null, settings => {
         const body = JSON.stringify({group_id: groupID, name: sel})
@@ -24,8 +27,12 @@ addWord = (sel, groupID) => {
         }).then(res => res.json()).then(jsonRes => {
             console.log(JSON.stringify(jsonRes));
         }).catch(err => {
-            console.log('Error: ' + err);
-            console.log(err.response);
+            printError(err)
         })
     })
+}
+
+function printError(err) {
+    console.log('Error: ' + err);
+    console.log(err.response);
 }

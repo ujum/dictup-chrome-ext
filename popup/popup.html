@@ -2,12 +2,34 @@
 <html lang="en">
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" href="popup.css">
     <script src="popup.js"></script>
-    <title></title>
+    <script src="lang.js"></script>
+    <link rel="icon" type="image/png" href="../img/logo-paw.png"/>
+    <title>Dictup</title>
 </head>
 <body>
-<h1>Dictup</h1>
-<button id="auth">AUTH</button>
-<a href="http://dictup.com:8080/auth/google" target="_blank">Google AUTH</a>
+<div class="cont">
+    <header>
+        <div class="language-cont" id='langCont'>
+            <div class="language-name" id='sourceName'>?</div>
+            <div class="language-flag" id='sourceFlag'></div>
+            <div class="language-arrow"></div>
+            <div class="language-name" id='targetName'>?</div>
+            <div class="language-flag" id='targetFlag'></div>
+        </div>
+        <div class="wg-cont" id='wgCont'>
+            <div class="wg-name" id='wgName'>?</div>
+        </div>
+        <div class="wg-arrow"></div>
+        <div class="ico-settings"></div>
+        <a class="ico-login"></a>
+        <a class="ico-login-google"></a>
+    </header>
+    <div class="languages-dropdown display-none">
+    </div>
+    <div class="wg-dropdown display-none">
+    </div>
+</div>
 </body>
 </html>

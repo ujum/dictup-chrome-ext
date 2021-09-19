@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="20" viewBox="0 0 32 20">
+    <defs>
+        <rect id="7h4pzoaw2a" width="30" height="18" x="0" y="0" rx="3"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g transform="translate(-502.000000, -217.000000) translate(503.000000, 218.000000)">
+                <mask id="8ub8x6u9ib" fill="#fff">
+                    <use xlink:href="#7h4pzoaw2a"/>
+                </mask>
+                <rect width="30.5" height="18.5" x="-.25" y="-.25" stroke="#7E919F" stroke-opacity=".497" stroke-width=".5" rx="3"/>
+                <g mask="url(#8ub8x6u9ib)">
+                    <g>
+                        <path fill="#438FC3" d="M0 17.815L30.163 17.815 30.163 0 0 0z" transform="translate(0.000000, -0.000728)"/>
+                        <path fill="#D6003F" d="M0 6H30V12H0z" transform="translate(0.000000, -0.000728)"/>
+                        <path fill="#48AE68" d="M0 12H30V18H0z" transform="translate(0.000000, -0.000728)"/>
+                        <g fill="#FFF">
+                            <path d="M3.427 5.005c-1.135 0-2.052-.935-2.052-2.083 0-1.149.917-2.08 2.052-2.08.411 0 .794.125 1.115.335C4.094.714 3.47.43 2.783.43 1.423.43.319 1.546.319 2.922c0 1.38 1.104 2.495 2.464 2.495.688 0 1.311-.284 1.759-.746-.321.209-.704.334-1.115.334" transform="translate(0.000000, -0.000728) translate(12.248850, 5.986406)"/>
+                            <path d="M6.206 3.867L5.533 3.558 5.274 4.262 5.014 3.558 4.341 3.867 4.647 3.185 3.954 2.922 4.647 2.659 4.343 1.98 5.016 2.286 5.276 1.589 5.536 2.289 6.208 1.98 5.901 2.659 6.594 2.925 5.901 3.188z" transform="translate(0.000000, -0.000728) translate(12.248850, 5.986406)"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

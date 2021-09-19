@@ -1,0 +1,581 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="20" viewBox="0 0 32 20">
+    <defs>
+        <rect id="bvq4nezuxa" width="30" height="18" x="0" y="0" rx="3"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g transform="translate(-265.000000, -697.000000) translate(266.000000, 698.000000)">
+                <mask id="7g9vkdqw0b" fill="#fff">
+                    <use xlink:href="#bvq4nezuxa"/>
+                </mask>
+                <rect width="30.5" height="18.5" x="-.25" y="-.25" stroke="#7E919F" stroke-opacity=".497" stroke-width=".5" rx="3"/>
+                <g mask="url(#7g9vkdqw0b)">
+                    <path fill="#1EB53A" fill-rule="nonzero" d="M0 0L30 0 30 18 0 18z"/>
+                    <path fill="#0099B5" fill-rule="nonzero" d="M0 0L30 0 30 6 0 6z"/>
+                    <path fill="#FFF" d="M0 6H30V12H0z"/>
+                    <path fill="#1EB53A" d="M0 12H30V18H0z"/>
+                    <circle cx="5.04" cy="2.88" r="2.16" fill="#FFF" fill-rule="nonzero"/>
+                    <circle cx="5.76" cy="2.88" r="2.16" fill="#0099B5" fill-rule="nonzero"/>
+                    <g fill="#FFF" fill-rule="nonzero">
+                        <g>
+                            <g>
+                                <g>
+                                    <g>
+                                        <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(3.456000, 0.000000) translate(0.000000, 3.456000) translate(0.301440, 0.000000) translate(-0.000000, 0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                        <g>
+                                            <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(3.456000, 0.000000) translate(0.000000, 3.456000) translate(0.301440, 0.000000) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                        </g>
+                                    </g>
+                                    <g>
+                                        <g>
+                                            <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(3.456000, 0.000000) translate(0.000000, 3.456000) translate(0.301440, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                            <g>
+                                                <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(3.456000, 0.000000) translate(0.000000, 3.456000) translate(0.301440, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g>
+                                    <g>
+                                        <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(3.456000, 0.000000) translate(0.000000, 3.456000) translate(0.323126, 0.372299) rotate(-72.000000) translate(-0.323126, -0.372299) translate(0.117698, 0.133497) translate(0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                        <g>
+                                            <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(3.456000, 0.000000) translate(0.000000, 3.456000) translate(0.323126, 0.372299) rotate(-72.000000) translate(-0.323126, -0.372299) translate(0.117698, 0.133497) translate(0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g>
+                                    <g>
+                                        <g>
+                                            <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(3.456000, 0.000000) translate(0.000000, 3.456000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                            <g>
+                                                <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(3.456000, 0.000000) translate(0.000000, 3.456000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(0.000000, 0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(3.456000, 0.000000) translate(0.000000, 3.456000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(-0.000000, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, 0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                <g>
+                                                    <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(3.456000, 0.000000) translate(0.000000, 3.456000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(-0.000000, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g>
+                                <g>
+                                    <g>
+                                        <g>
+                                            <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(3.456000, 0.000000) translate(-0.000000, 1.728000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(-0.000000, 0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                            <g>
+                                                <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(3.456000, 0.000000) translate(-0.000000, 1.728000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(3.456000, 0.000000) translate(-0.000000, 1.728000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                <g>
+                                                    <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(3.456000, 0.000000) translate(-0.000000, 1.728000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(0.000000, 0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g>
+                                        <g>
+                                            <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(3.456000, 0.000000) translate(-0.000000, 1.728000) translate(-0.000000, 0.000000) translate(0.323126, 0.372299) rotate(-72.000000) translate(-0.323126, -0.372299) translate(0.117698, 0.133497) translate(0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                            <g>
+                                                <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(3.456000, 0.000000) translate(-0.000000, 1.728000) translate(-0.000000, 0.000000) translate(0.323126, 0.372299) rotate(-72.000000) translate(-0.323126, -0.372299) translate(0.117698, 0.133497) translate(0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g>
+                                        <g>
+                                            <g>
+                                                <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(3.456000, 0.000000) translate(-0.000000, 1.728000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, -0.000000) translate(0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                <g>
+                                                    <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(3.456000, 0.000000) translate(-0.000000, 1.728000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, -0.000000) translate(0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                </g>
+                                            </g>
+                                            <g>
+                                                <g>
+                                                    <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(3.456000, 0.000000) translate(-0.000000, 1.728000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, -0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, 0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                    <g>
+                                                        <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(3.456000, 0.000000) translate(-0.000000, 1.728000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, -0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g>
+                                <g>
+                                    <g>
+                                        <g>
+                                            <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(3.456000, 0.000000) translate(0.000000, 0.000000) translate(0.000000, 0.000000) translate(0.301440, 0.000000) translate(-0.000000, 0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                            <g>
+                                                <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(3.456000, 0.000000) translate(0.000000, 0.000000) translate(0.000000, 0.000000) translate(0.301440, 0.000000) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(3.456000, 0.000000) translate(0.000000, 0.000000) translate(0.000000, 0.000000) translate(0.301440, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                <g>
+                                                    <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(3.456000, 0.000000) translate(0.000000, 0.000000) translate(0.000000, 0.000000) translate(0.301440, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g>
+                                        <g>
+                                            <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(3.456000, 0.000000) translate(0.000000, 0.000000) translate(0.000000, 0.000000) translate(0.323126, 0.372299) rotate(-72.000000) translate(-0.323126, -0.372299) translate(0.117698, 0.133497) translate(-0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                            <g>
+                                                <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(3.456000, 0.000000) translate(0.000000, 0.000000) translate(0.000000, 0.000000) translate(0.323126, 0.372299) rotate(-72.000000) translate(-0.323126, -0.372299) translate(0.117698, 0.133497) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g>
+                                        <g>
+                                            <g>
+                                                <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(3.456000, 0.000000) translate(0.000000, 0.000000) translate(0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, 0.000000) translate(0.000000, 0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                <g>
+                                                    <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(3.456000, 0.000000) translate(0.000000, 0.000000) translate(0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, 0.000000) translate(0.000000, 0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(0.000000, 0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                </g>
+                                            </g>
+                                            <g>
+                                                <g>
+                                                    <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(3.456000, 0.000000) translate(0.000000, 0.000000) translate(0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                    <g>
+                                                        <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(3.456000, 0.000000) translate(0.000000, 0.000000) translate(0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g>
+                            <g>
+                                <g>
+                                    <g>
+                                        <g>
+                                            <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(5.184000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 3.456000) translate(0.301440, 0.000000) translate(-0.000000, 0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                            <g>
+                                                <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(5.184000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 3.456000) translate(0.301440, 0.000000) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(5.184000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 3.456000) translate(0.301440, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                <g>
+                                                    <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(5.184000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 3.456000) translate(0.301440, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g>
+                                        <g>
+                                            <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(5.184000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 3.456000) translate(0.323126, 0.372299) rotate(-72.000000) translate(-0.323126, -0.372299) translate(0.117698, 0.133497) translate(0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                            <g>
+                                                <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(5.184000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 3.456000) translate(0.323126, 0.372299) rotate(-72.000000) translate(-0.323126, -0.372299) translate(0.117698, 0.133497) translate(0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g>
+                                        <g>
+                                            <g>
+                                                <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(5.184000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 3.456000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, -0.000000) translate(0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                <g>
+                                                    <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(5.184000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 3.456000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, -0.000000) translate(0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(0.000000, 0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                </g>
+                                            </g>
+                                            <g>
+                                                <g>
+                                                    <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(5.184000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 3.456000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, -0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                    <g>
+                                                        <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(5.184000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 3.456000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, -0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g>
+                                    <g>
+                                        <g>
+                                            <g>
+                                                <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(5.184000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 1.728000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(-0.000000, 0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                <g>
+                                                    <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(5.184000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 1.728000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                </g>
+                                            </g>
+                                            <g>
+                                                <g>
+                                                    <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(5.184000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 1.728000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                    <g>
+                                                        <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(5.184000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 1.728000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(5.184000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 1.728000) translate(-0.000000, 0.000000) translate(0.323126, 0.372299) rotate(-72.000000) translate(-0.323126, -0.372299) translate(0.117698, 0.133497) translate(0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                <g>
+                                                    <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(5.184000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 1.728000) translate(-0.000000, 0.000000) translate(0.323126, 0.372299) rotate(-72.000000) translate(-0.323126, -0.372299) translate(0.117698, 0.133497) translate(0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <g>
+                                                    <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(5.184000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 1.728000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, 0.000000) translate(0.000000, 0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                    <g>
+                                                        <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(5.184000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 1.728000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, 0.000000) translate(0.000000, 0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(0.000000, 0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                    </g>
+                                                </g>
+                                                <g>
+                                                    <g>
+                                                        <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(5.184000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 1.728000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(0.000000, 0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                        <g>
+                                                            <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(5.184000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 1.728000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(0.000000, 0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g>
+                                    <g>
+                                        <g>
+                                            <g>
+                                                <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(5.184000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(-0.000000, 0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                <g>
+                                                    <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(5.184000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                </g>
+                                            </g>
+                                            <g>
+                                                <g>
+                                                    <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(5.184000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                    <g>
+                                                        <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(5.184000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(5.184000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(0.323126, 0.372299) rotate(-72.000000) translate(-0.323126, -0.372299) translate(0.117698, 0.133497) translate(0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                <g>
+                                                    <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(5.184000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(0.323126, 0.372299) rotate(-72.000000) translate(-0.323126, -0.372299) translate(0.117698, 0.133497) translate(0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <g>
+                                                    <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(5.184000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, -0.000000) translate(0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                    <g>
+                                                        <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(5.184000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, -0.000000) translate(0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                    </g>
+                                                </g>
+                                                <g>
+                                                    <g>
+                                                        <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(5.184000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, -0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                        <g>
+                                                            <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(5.184000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, -0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g>
+                            <g>
+                                <g>
+                                    <g>
+                                        <g>
+                                            <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(6.912000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 3.456000) translate(0.301440, 0.000000) translate(-0.000000, 0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                            <g>
+                                                <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(6.912000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 3.456000) translate(0.301440, 0.000000) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(6.912000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 3.456000) translate(0.301440, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                <g>
+                                                    <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(6.912000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 3.456000) translate(0.301440, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g>
+                                        <g>
+                                            <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(6.912000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 3.456000) translate(0.323126, 0.372299) rotate(-72.000000) translate(-0.323126, -0.372299) translate(0.117698, 0.133497) translate(0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                            <g>
+                                                <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(6.912000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 3.456000) translate(0.323126, 0.372299) rotate(-72.000000) translate(-0.323126, -0.372299) translate(0.117698, 0.133497) translate(0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g>
+                                        <g>
+                                            <g>
+                                                <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(6.912000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 3.456000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                <g>
+                                                    <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(6.912000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 3.456000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                </g>
+                                            </g>
+                                            <g>
+                                                <g>
+                                                    <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(6.912000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 3.456000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(-0.000000, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                    <g>
+                                                        <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(6.912000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 3.456000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(-0.000000, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g>
+                                    <g>
+                                        <g>
+                                            <g>
+                                                <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(6.912000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 1.728000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(-0.000000, 0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                <g>
+                                                    <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(6.912000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 1.728000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                </g>
+                                            </g>
+                                            <g>
+                                                <g>
+                                                    <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(6.912000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 1.728000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                    <g>
+                                                        <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(6.912000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 1.728000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(6.912000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 1.728000) translate(-0.000000, 0.000000) translate(0.323126, 0.372299) rotate(-72.000000) translate(-0.323126, -0.372299) translate(0.117698, 0.133497) translate(0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                <g>
+                                                    <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(6.912000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 1.728000) translate(-0.000000, 0.000000) translate(0.323126, 0.372299) rotate(-72.000000) translate(-0.323126, -0.372299) translate(0.117698, 0.133497) translate(0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <g>
+                                                    <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(6.912000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 1.728000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, 0.000000) translate(0.000000, 0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                    <g>
+                                                        <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(6.912000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 1.728000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, 0.000000) translate(0.000000, 0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(0.000000, 0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                    </g>
+                                                </g>
+                                                <g>
+                                                    <g>
+                                                        <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(6.912000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 1.728000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(0.000000, 0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                        <g>
+                                                            <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(6.912000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 1.728000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(0.000000, 0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(0.000000, 0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g>
+                                    <g>
+                                        <g>
+                                            <g>
+                                                <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(6.912000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(-0.000000, 0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                <g>
+                                                    <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(6.912000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                </g>
+                                            </g>
+                                            <g>
+                                                <g>
+                                                    <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(6.912000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                    <g>
+                                                        <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(6.912000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(6.912000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(0.323126, 0.372299) rotate(-72.000000) translate(-0.323126, -0.372299) translate(0.117698, 0.133497) translate(0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                <g>
+                                                    <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(6.912000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(0.323126, 0.372299) rotate(-72.000000) translate(-0.323126, -0.372299) translate(0.117698, 0.133497) translate(0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <g>
+                                                    <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(6.912000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, 0.000000) translate(0.000000, 0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                    <g>
+                                                        <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(6.912000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, 0.000000) translate(0.000000, 0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(0.000000, 0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                    </g>
+                                                </g>
+                                                <g>
+                                                    <g>
+                                                        <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(6.912000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(0.000000, 0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                        <g>
+                                                            <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(6.912000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(0.000000, 0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(0.000000, 0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g>
+                            <g>
+                                <g>
+                                    <g>
+                                        <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(-0.000000, 3.456000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(-0.000000, 0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                        <g>
+                                            <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(-0.000000, 3.456000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                        </g>
+                                    </g>
+                                    <g>
+                                        <g>
+                                            <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(-0.000000, 3.456000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                            <g>
+                                                <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(-0.000000, 3.456000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g>
+                                    <g>
+                                        <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(-0.000000, 3.456000) translate(-0.000000, 0.000000) translate(0.323126, 0.372299) rotate(-72.000000) translate(-0.323126, -0.372299) translate(0.117698, 0.133497) translate(-0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                        <g>
+                                            <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(-0.000000, 3.456000) translate(-0.000000, 0.000000) translate(0.323126, 0.372299) rotate(-72.000000) translate(-0.323126, -0.372299) translate(0.117698, 0.133497) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g>
+                                    <g>
+                                        <g>
+                                            <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(-0.000000, 3.456000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(-0.000000, -0.000000) translate(-0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                            <g>
+                                                <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(-0.000000, 3.456000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(-0.000000, -0.000000) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(-0.000000, 3.456000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(-0.000000, -0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                <g>
+                                                    <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(-0.000000, 3.456000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(-0.000000, -0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g>
+                            <g>
+                                <g>
+                                    <g>
+                                        <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(1.728000, 3.456000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(-0.000000, 0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                        <g>
+                                            <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(1.728000, 3.456000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                        </g>
+                                    </g>
+                                    <g>
+                                        <g>
+                                            <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(1.728000, 3.456000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                            <g>
+                                                <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(1.728000, 3.456000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g>
+                                    <g>
+                                        <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(1.728000, 3.456000) translate(-0.000000, 0.000000) translate(0.323126, 0.372299) rotate(-72.000000) translate(-0.323126, -0.372299) translate(0.117698, 0.133497) translate(0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                        <g>
+                                            <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(1.728000, 3.456000) translate(-0.000000, 0.000000) translate(0.323126, 0.372299) rotate(-72.000000) translate(-0.323126, -0.372299) translate(0.117698, 0.133497) translate(0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g>
+                                    <g>
+                                        <g>
+                                            <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(1.728000, 3.456000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(-0.000000, -0.000000) translate(-0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                            <g>
+                                                <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(1.728000, 3.456000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(-0.000000, -0.000000) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(1.728000, 3.456000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(-0.000000, -0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(0.000000, 0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                <g>
+                                                    <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(1.728000, 3.456000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(-0.000000, -0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(0.000000, 0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g>
+                            <g>
+                                <g>
+                                    <g>
+                                        <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(1.728000, 1.728000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(-0.000000, 0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                        <g>
+                                            <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(1.728000, 1.728000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                        </g>
+                                    </g>
+                                    <g>
+                                        <g>
+                                            <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(1.728000, 1.728000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                            <g>
+                                                <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(1.728000, 1.728000) translate(-0.000000, 0.000000) translate(0.301440, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g>
+                                    <g>
+                                        <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(1.728000, 1.728000) translate(-0.000000, 0.000000) translate(0.323126, 0.372299) rotate(-72.000000) translate(-0.323126, -0.372299) translate(0.117698, 0.133497) translate(0.000000, -0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                        <g>
+                                            <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(1.728000, 1.728000) translate(-0.000000, 0.000000) translate(0.323126, 0.372299) rotate(-72.000000) translate(-0.323126, -0.372299) translate(0.117698, 0.133497) translate(0.000000, -0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g>
+                                    <g>
+                                        <g>
+                                            <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(1.728000, 1.728000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, 0.000000) translate(0.000000, 0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                            <g>
+                                                <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(1.728000, 1.728000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, 0.000000) translate(0.000000, 0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(0.000000, 0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                            </g>
+                                        </g>
+                                        <g>
+                                            <g>
+                                                <path d="M0.133 0.023L0.133 0.455 0.349 0.455" transform="translate(5.829132, 0.720000) translate(1.728000, 1.728000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, 0.000000) translate(0.241395, 0.238802) rotate(18.000000) translate(-0.241395, -0.238802)"/>
+                                                <g>
+                                                    <path d="M0.061 0.023L0.061 0.455 0.277 0.455" transform="translate(5.829132, 0.720000) translate(1.728000, 1.728000) translate(-0.000000, 0.000000) translate(0.463493, 0.601047) rotate(144.000000) translate(-0.463493, -0.601047) translate(0.123610, 0.280314) translate(0.000000, 0.000000) translate(0.389170, 0.372299) rotate(72.000000) translate(-0.389170, -0.372299) translate(0.183742, 0.133497) translate(-0.000000, 0.000000) translate(0.169462, 0.238802) scale(-1, 1) translate(-0.169462, -0.238802) translate(-0.000000, -0.000000) translate(0.169462, 0.238802) rotate(18.000000) translate(-0.169462, -0.238802)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
