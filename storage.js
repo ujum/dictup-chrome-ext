@@ -4,25 +4,27 @@ const protocol = `http`;
 function getAuthHeaders(settings) {
     return {
         'Content-type': 'application/json',
-        'Authorization': 'Bearer ' + settings.access_token,
+        'Authorization': 'Bearer ' + settings.accessToken,
     };
 }
 
 function updateWordGroups() {
     chrome.storage.local.get(null, settings => {
-        let activeLang = settings.user.lang_binding.find(lang => lang.active === true)
-        let from_iso = activeLang.from_iso
-        let to_iso = activeLang.to_iso
-        fetch(`${protocol}://${host}/api/v1/wordgroups/langs/${from_iso}/${to_iso}`, {
-            method: 'GET',
-            headers: getAuthHeaders(settings)
-        }).then(res => res.json()).then(groups => {
-            chrome.storage.local.set({
-                groups: groups
+        if (settings.user && settings.user.lang_binding) {
+            let activeLang = settings.user.lang_binding.find(lang => lang.active === true)
+            let from_iso = activeLang.from_iso
+            let to_iso = activeLang.to_iso
+            fetch(`${protocol}://${host}/api/v1/wordgroups/langs/${from_iso}/${to_iso}`, {
+                method: 'GET',
+                headers: getAuthHeaders(settings)
+            }).then(res => res.json()).then(groups => {
+                chrome.storage.local.set({
+                    groups: groups
+                })
+            }).catch(err => {
+                printError(err);
             })
-        }).catch(err => {
-            printError(err);
-        })
+        }
     })
 }
 

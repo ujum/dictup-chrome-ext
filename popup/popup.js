@@ -27,7 +27,6 @@ chrome.storage.local.get(null, settings => {
     console.log(settings)
     updateFlags();
     updateWordgroups();
-
 });
 
 openNewTab = url => chrome.tabs.create({url});
@@ -88,9 +87,6 @@ languagesDropdown = () => {
                         }, () => {
                             chrome.runtime.sendMessage({
                                 type: "UpdateWordgroups"
-                            }, (response) => {
-                                console.log(response)
-                                // updateWordgroups()
                             })
                         });
                     })
@@ -137,7 +133,7 @@ wgDropdown = () => {
                     languagesDropdownClose(getLangCont());
                     chrome.storage.local.get(null, settings => {
                         settings.groups.forEach(gr => {
-                            gr.default = gr.default === group.default;
+                            gr.default = gr.id === group.id;
                         })
                         console.log(settings.groups)
                         chrome.storage.local.set({
@@ -152,6 +148,11 @@ wgDropdown = () => {
     }
 }
 
+function printError(err) {
+    console.log('Error: ' + err.message);
+    console.log(err.response);
+}
+
 auth = () => {
     // TODO add input fields for email pass
     const body = JSON.stringify({"email": "test1@dictup.com", "password": "test1"})
@@ -159,8 +160,7 @@ auth = () => {
     fetch(`${protocol}://${host}/auth`, {method: 'POST', body, jsomHeaders}).then(res => res.json()).then(jsonRes => {
         chrome.storage.local.set({accessToken: jsonRes.access_token})
     }).catch(err => {
-        console.log('Error: ' + err.message);
-        console.log(err.response);
+        printError(err);
     })
 }
 chrome.storage.onChanged.addListener(function (changes, namespace) {
